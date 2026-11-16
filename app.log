@@ -1,0 +1,62 @@
+
+2026-11-08 11:00:23,130 - INFO - Listando a Insituição de Ensino com ID: 635
+2026-11-08 11:00:23,130 - INFO - Finalizando o processamento da Listagem da Insituição de Ensino com ID: 635
+2026-11-08 11:19:40,187 - INFO - Listando a Insituição de Ensino com ID: 637
+2026-11-08 11:19:40,188 - INFO - Finalizando o processamento da Listagem da Insituição de Ensino com ID: 637
+2026-11-08 21:52:49,649 - INFO - listando a insituição de ensino com ID: 639
+2026-11-08 21:52:49,658 - INFO - finalizando a Listagem da insituição de ensino com ID: 639
+2026-11-08 21:53:01,438 - INFO - listando as insituições
+2026-11-08 21:53:01,439 - INFO - Recuperando a conexão com o Banco de dados
+2026-11-08 21:53:02,063 - INFO - finalizando a listagem das insituições
+2026-11-08 21:53:17,016 - INFO - iniciando o delete, apagando com ID: 10009
+2026-11-08 21:53:45,431 - INFO - iniciando atualização fo item ID: 639
+2026-11-08 21:53:45,447 - INFO - finalizando atualização da instituição com ID: 639
+2026-11-08 21:58:08,833 - INFO - iniciando a criação da nova insituição
+2026-11-08 22:03:03,807 - INFO - iniciando a criação da nova insituição
+2026-11-08 22:03:57,009 - INFO - iniciando a criação da nova insituição
+2026-11-08 22:06:25,283 - INFO - iniciando a criação da nova insituição
+2026-11-08 22:09:51,424 - INFO - iniciando a criação da nova insituição
+2026-11-08 22:10:12,927 - INFO - iniciando a criação da nova insituição
+2026-11-08 22:10:44,524 - INFO - iniciando a criação da nova insituição
+2026-11-08 22:11:19,143 - INFO - iniciando a criação da nova insituição
+2026-11-08 22:11:36,900 - INFO - iniciando a criação da nova insituição
+2026-11-08 22:12:56,890 - INFO - iniciando a criação da nova insituição
+2026-11-08 22:13:04,802 - INFO - iniciando a criação da nova insituição
+2026-11-09 08:55:54,569 - INFO - iniciando a criação da nova insituição
+2026-11-09 08:56:36,011 - INFO - listando a insituição de ensino com ID: 120230
+2026-11-09 08:56:36,011 - INFO - finalizando a Listagem da insituição de ensino com ID: 120230
+2026-11-10 11:02:41,881 - INFO - listando a insituição de ensino com ID: 120
+2026-11-10 11:11:44,554 - INFO - listando a insituição de ensino com ID: 120
+2026-11-10 11:12:09,138 - INFO - listando a insituição de ensino com ID: 120
+2026-11-10 11:13:04,254 - INFO - listando a insituição de ensino com ID: 120
+2026-11-10 11:13:04,295 - INFO - finalizando a Listagem da insituição de ensino com ID: 120
+2026-11-10 11:13:39,911 - INFO - listando a insituição de ensino com ID: 120
+2026-11-10 11:13:39,942 - INFO - finalizando a Listagem da insituição de ensino com ID: 120
+2026-11-10 11:14:19,936 - INFO - listando a insituição de ensino com ID: 120
+2026-11-10 11:14:19,965 - INFO - finalizando a Listagem da insituição de ensino com ID: 120
+2026-11-10 11:14:35,908 - INFO - listando a insituição de ensino com ID: 124
+2026-11-10 11:14:35,935 - INFO - finalizando a Listagem da insituição de ensino com ID: 124
+2026-11-10 11:14:42,356 - INFO - listando a insituição de ensino com ID: 1267
+2026-11-10 11:14:42,385 - INFO - finalizando a Listagem da insituição de ensino com ID: 1267
+2026-11-10 21:32:06,330 - INFO - listando a insituição de ensino com ID: 1267
+2026-11-10 21:32:06,381 - INFO - finalizando a Listagem da insituição de ensino com ID: 1267
+2026-11-10 21:33:34,161 - INFO - listando a insituição de ensino com ID: 1267
+2026-11-10 21:35:46,311 - INFO - listando a insituição de ensino com ID: 1268
+2026-11-10 21:44:07,968 - INFO - listando a insituição de ensino com ID: 1268
+2026-11-10 21:44:08,019 - INFO - finalizando a Listagem da insituição de ensino com ID: 1268
+2026-11-15 16:33:53,149 - INFO - listando a insituição de ensino com ID: 1268
+2026-11-15 16:34:25,449 - INFO - listando a insituição de ensino com ID: 1269
+2026-11-15 16:39:52,139 - INFO - listando a insituição de ensino com ID: 1269
+2026-11-15 16:42:34,377 - INFO - listando a insituição de ensino com ID: 1269
+2026-11-15 16:42:34,390 - INFO - finalizando a Listagem da insituição de ensino com ID: 1269
+2026-11-15 16:42:52,411 - INFO - listando a insituição de ensino com ID: 1900
+2026-11-15 16:42:52,422 - INFO - finalizando a Listagem da insituição de ensino com ID: 1900
+2026-11-15 16:43:47,456 - INFO - listando a insituição de ensino com ID: 1905
+2026-11-15 16:43:47,468 - INFO - finalizando a Listagem da insituição de ensino com ID: 1905
+2026-11-15 16:44:21,489 - INFO - iniciando a criação da nova insituição
+2026-11-15 16:44:49,784 - INFO - iniciando atualização fo item ID: 345
+2026-11-15 16:55:47,040 - INFO - iniciando atualização fo item ID: 345
+2026-11-15 16:55:47,064 - INFO - finalizando atualização da instituição com ID: 345
+2026-11-15 16:56:09,985 - INFO - iniciando o delete, apagando com ID: 10010
+2026-11-15 16:56:36,796 - INFO - iniciando o delete, apagando com ID: 10010
+2026-11-15 16:57:23,373 - INFO - iniciando o delete, apagando com ID: 10010

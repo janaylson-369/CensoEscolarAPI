@@ -1,0 +1,21 @@
+import logging
+from logging.handlers import RotatingFileHandler
+from logging import StreamHandler
+from flask import current_app
+from helpers.application import app
+
+
+logger = logging.getLogger(__name__)
+
+logger.setLevel(logging.INFO)
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+
+# handles
+streamHandler = StreamHandler()
+streamHandler.setFormatter(formatter)
+logger.addHandler(streamHandler)
+
+#arquivo de log
+fileHandler = RotatingFileHandler('app.log', maxBytes=10000, backupCount=3)
+fileHandler.setFormatter(formatter)
+logger.addHandler(fileHandler)

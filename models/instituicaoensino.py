@@ -41,8 +41,6 @@ class InstituicaoEnsino:
         self.qt_mat_eja = qt_mat_eja
         self.qt_mat_esp = qt_mat_esp
         self.ativo = ativo
-        if (created is not None):
-            created = datetime.fromisoformat(created)
         self.created = created
 
 
