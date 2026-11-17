@@ -60,3 +60,25 @@
 2026-11-15 16:56:09,985 - INFO - iniciando o delete, apagando com ID: 10010
 2026-11-15 16:56:36,796 - INFO - iniciando o delete, apagando com ID: 10010
 2026-11-15 16:57:23,373 - INFO - iniciando o delete, apagando com ID: 10010
+2026-11-16 13:59:10,572 - INFO - listando a insituição de ensino com ID: 100
+2026-11-16 13:59:28,554 - INFO - listando as insituições
+2026-11-16 13:59:28,564 - INFO - recuperando a conexão com o Banco de dados
+2026-11-16 14:02:48,342 - INFO - listando as insituições
+2026-11-16 14:02:48,366 - INFO - recuperando a conexão com o Banco de dados
+2026-11-16 14:03:59,805 - INFO - listando as insituições
+2026-11-16 14:03:59,827 - INFO - recuperando a conexão com o Banco de dados
+2026-11-16 14:04:00,564 - INFO - finalizando a listagem das insituições
+2026-11-16 14:12:27,203 - INFO - iniciando o delete, apagando com ID: 10011
+2026-11-16 14:48:35,589 - INFO - listando as insituições
+2026-11-16 14:48:35,605 - INFO - recuperando a conexão com o Banco de dados
+2026-11-16 14:48:36,337 - INFO - finalizando a listagem das insituições
+2026-11-17 09:32:32,697 - INFO - listando as insituições
+2026-11-17 09:32:32,717 - INFO - recuperando a conexão com o Banco de dados
+2026-11-17 09:32:33,342 - INFO - finalizando a listagem das insituições
+2026-11-17 09:32:47,822 - INFO - iniciando o delete, apagando com ID: 10011
+2026-11-17 09:32:55,921 - INFO - listando a insituição de ensino com ID: 1
+2026-11-17 09:32:55,933 - INFO - finalizando a Listagem da insituição de ensino com ID: 1
+2026-11-17 09:45:00,765 - INFO - iniciando a criação da nova insituição
+2026-11-17 09:46:13,411 - INFO - iniciando a criação da nova insituição
+2026-11-17 09:46:47,302 - INFO - iniciando atualização fo item ID: 345
+2026-11-17 09:46:47,325 - INFO - finalizando atualização da instituição com ID: 345

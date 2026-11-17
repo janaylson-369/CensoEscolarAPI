@@ -42,7 +42,7 @@ class InstituicaoEnsino:
         self.qt_mat_esp = qt_mat_esp
         self.ativo = ativo
         self.created = created
-
+        
 
 class InstituicaoEnsinoSchema(Schema):
     id = fields.Int(dump_only=True)

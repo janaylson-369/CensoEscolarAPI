@@ -1,4 +1,3 @@
-import sqlite3
 from flask import g
 from helpers.application import app
 from helpers.enviroment import enviroment

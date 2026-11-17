@@ -60,7 +60,7 @@ class InstituicaoEnsinoRepository():
                     no_municipio, co_municipio, nu_ano_censo, qt_mat_bas, 
                     qt_mat_inf, qt_mat_fund, qt_mat_med, qt_mat_prof, 
                     qt_mat_eja, qt_mat_esp, ativo, created
-                FROM tb_instituicao_ensino WHERE ativo = 1""")
+                FROM tb_instituicao_ensino WHERE ativo = True""")
             rows = cursor.fetchall()
             
             instituicoes = [row_to_instituicao(row) for row in rows]
