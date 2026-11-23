@@ -82,3 +82,29 @@
 2026-11-17 09:46:13,411 - INFO - iniciando a criação da nova insituição
 2026-11-17 09:46:47,302 - INFO - iniciando atualização fo item ID: 345
 2026-11-17 09:46:47,325 - INFO - finalizando atualização da instituição com ID: 345
+2026-11-18 10:17:50,743 - INFO - listando a insituição de ensino com ID: 1
+2026-11-18 10:19:21,721 - INFO - listando a insituição de ensino com ID: 1
+2026-11-18 10:19:21,749 - INFO - finalizando a Listagem da insituição de ensino com ID: 1
+2026-11-18 10:19:28,352 - INFO - listando a insituição de ensino com ID: 1
+2026-11-18 10:19:28,362 - INFO - finalizando a Listagem da insituição de ensino com ID: 1
+2026-11-18 10:19:37,718 - INFO - iniciando atualização fo item ID: 3455
+2026-11-18 10:19:37,733 - INFO - finalizando atualização da instituição com ID: 3455
+2026-11-18 10:19:52,234 - INFO - iniciando a criação da nova insituição
+2026-11-18 10:19:58,517 - INFO - listando as insituições
+2026-11-18 10:19:58,526 - INFO - recuperando a conexão com o Banco de dados
+2026-11-18 10:19:59,163 - INFO - finalizando a listagem das insituições
+2026-11-18 10:20:09,561 - INFO - iniciando o delete, apagando com ID: 10012
+2026-11-23 17:25:22,971 - INFO - listando as insituições
+2026-11-23 17:27:19,356 - INFO - listando as insituições
+2026-11-23 17:27:19,356 - INFO - Listando as Instituições de Ensino - página 1 com 10 registros
+2026-11-23 17:29:34,450 - INFO - listando as insituições
+2026-11-23 17:29:34,450 - INFO - Listando as Instituições de Ensino - página 1 com 10 registros
+2026-11-23 17:30:23,850 - INFO - listando as insituições
+2026-11-23 17:30:23,850 - INFO - Listando as Instituições de Ensino - página 1 com 10 registros
+2026-11-23 17:30:23,893 - INFO - recuperando a conexão com o Banco de dados
+2026-11-23 17:30:23,937 - INFO - finalizando a listagem das insituições
+2026-11-23 17:34:22,098 - INFO - listando a insituição de ensino com ID: 1
+2026-11-23 17:34:22,110 - INFO - finalizando a Listagem da insituição de ensino com ID: 1
+2026-11-23 17:34:58,813 - INFO - iniciando a criação da nova insituição
+2026-11-23 17:35:26,687 - INFO - iniciando atualização fo item ID: 3456
+2026-11-23 17:35:26,708 - INFO - finalizando atualização da instituição com ID: 3456

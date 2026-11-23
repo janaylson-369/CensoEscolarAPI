@@ -1,12 +1,25 @@
+import math
 from http import HTTPStatus
+from models.paginacao import PAGE_DEFAULT, PER_PAGE_DEFAULT
 from repositories.instituicaoEnsinoRepository import InstituicaoEnsinoRepository
 
 class instEnsinoService():
     def __init__(self):
         self.instituicaoEnsinoRepository = InstituicaoEnsinoRepository()
     
-    def get_all(self):
-        return self.instituicaoEnsinoRepository.getAllInstituicoes()
+    def get_all(self, page=PAGE_DEFAULT, per_page=PER_PAGE_DEFAULT):
+        offset = (page - 1) * per_page
+        itens = self.instituicaoEnsinoRepository.getAllInstituicoes(per_page, offset)
+        total = self.instituicaoEnsinoRepository.countInstituicoes()
+        return {
+            "data": itens,
+            "pagination": {
+                "page": page,
+                "per_page": per_page,
+                "total": total,
+                "total_pages": math.ceil(total / per_page) if total else 0
+            }
+        }
 
     def get_by_id(self,id):
         return self.instituicaoEnsinoRepository.getInstituicao(id)
